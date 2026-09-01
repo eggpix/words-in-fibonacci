@@ -1,0 +1,816 @@
+English words of 3 characters or more in the first 1000 elements of the base 26 Fibonacci sequence:
+
+27: leo
+42: hey
+50: tin
+59: pda
+61: new
+65: soa, def
+66: dam, fda, amp
+68: lib
+71: cet
+76: fly
+79: aka, aaa
+83: bar, por
+84: wav
+85: cst
+86: mpg
+90: beer, bee
+92: air
+95: asp
+102: ton
+105: why, nyc
+114: wax
+118: buy, gen
+120: hay
+123: ana
+127: for
+128: all
+132: das
+133: feb
+134: neo, ray
+135: bee
+136: bug
+138: bad, tcp
+139: jim
+140: too
+143: fox
+144: joy, bbw
+147: arm
+148: tft
+150: grad
+151: liz, std
+152: doc
+153: tea
+154: exp, tex
+155: mix
+156: asin, sin
+158: xml, bit
+159: phi, phil
+160: dna
+161: tea
+163: odd, vol
+164: end
+166: til
+167: ppc
+168: guy
+169: tee
+170: tub
+171: abc
+172: pvc
+175: nam
+177: rob
+178: bad
+179: hot
+180: iso, cio
+182: mud
+183: mtv
+184: mac
+187: liz
+188: loc
+189: van, ana
+191: bed
+192: lid
+197: vat, aol
+198: tom, mar, feof
+202: nfl, gun
+204: flu
+205: may
+207: due
+208: via, pic
+209: oecd
+210: did, dry
+211: hub, tmp, way
+212: fox
+213: rat, fuck
+215: eur
+218: soma
+219: gis
+220: van, val
+222: aus, rpg
+224: boc
+225: ion
+226: von, bob
+229: any, war, area, eat, ware, are
+230: why, php
+231: did
+232: gun, psp
+233: mil, cdt
+234: upc
+238: boc
+241: for
+242: met, fat, set, mac
+243: own, fcc
+244: est, bbs, mic
+245: per, min, mag
+246: run, und, cds
+247: san
+248: ext
+249: can, jon, fcc, one
+250: ibm, bmw, aim
+251: blah
+252: wma
+255: von, hdtv
+256: zip
+258: irc
+259: pdf
+260: psp
+261: dsc, top
+262: int, til
+263: das, asp
+264: lips, ips, bon, lip
+265: sir, joe, gcc
+266: gst, std
+267: ice
+268: irc, eva
+269: dec, cgi, menu, men
+270: gmt, side, ide
+271: mat
+272: mic, icq
+273: hiv, lie
+274: nfl, pty, tel
+275: run, raw, dis, runs, non
+276: til
+278: gap
+279: its
+280: amy
+281: epa, rug, una
+283: don, sir, gas, irs
+284: lit
+285: toy, ist, abs
+286: dee
+287: lot
+288: old, bold, dns, ago
+289: fcc
+290: how, mom, old, yea
+291: ddr, ceo
+292: jun, toy, unto, got
+293: nhl
+294: kim, both
+295: joy
+296: pub, com
+297: wet
+298: let, arc, bay, tri
+299: bow
+300: gun
+301: zen, sip, oak
+303: bid, pmc, few
+304: aug
+305: cir, cum
+306: hiv, kid
+307: sie, its, toe, oem, cat
+308: cio, gig, war
+310: won, rna, src
+311: open, sat, gtk, pen
+313: ham, amp
+315: sys, nhs, una
+316: him, phi
+318: let, rim
+319: irc, rca
+320: www
+321: cry, pci
+322: pot
+323: can, pay
+324: wind, win, ind, dry
+325: sql, acc
+326: qld, soa
+327: ham, uri
+328: win, str
+329: page, gel, spa, age
+330: dns
+331: slim, sri
+333: lat, ati
+334: ing, etc, bet
+335: nfl, und
+336: earn, asia, ear, mas, iso, lie
+337: ink, bin
+338: une, mug, eds, joe, ted
+339: gym, edt
+340: tee, lib
+341: cow, irs
+342: harm, arm, tex, lan
+343: may, cpu, usr
+344: tgp
+345: buy
+346: mhz, sas
+347: arab, car, end, zen
+348: box
+349: seo, hat, sic
+350: tub, mel
+351: nsw
+352: jon, fog, win, saw
+353: fun, pix, med, sep, pdf
+354: lot, msg
+355: ton
+356: jim, eur
+358: los, nfl, ons, egg, pcs, son, leg, sons
+359: kid, exp, llp, las
+360: fin
+361: pit, ice, sad
+363: jvc
+364: max, oak
+365: new, irc
+367: dip, inn
+368: end, gen, rico
+369: jam, safe, chi, usa, amy, tony, ton
+370: sam
+371: nba, tap, ban, api, sim
+372: cet, qui
+373: bar, nil
+374: set, ted
+375: boy
+376: jon
+377: far
+378: rep, acc
+379: les, abu, usr
+380: cox, cow, own, tue
+381: kit, jan
+383: vat
+384: eat, meat
+385: rob, the, fly, rpg
+386: mom
+387: new, rpm, she
+390: sap, apt
+391: ing, var, bin
+392: mod
+393: eos, boy
+394: only
+395: yen, bon
+396: fax
+397: est, apt
+398: aid
+399: yrs, rca, res
+400: met
+401: top
+402: odd, pan, icq
+404: oil, pen
+405: ata, sat, vic
+406: rec, gpl
+407: ink, see, nhl
+408: amy, jam, apr
+410: ppm, sad, cams, cam
+411: foo, bra, hey, lcd
+412: vic
+413: res, net
+414: obj, tar
+415: ion
+416: ton, tip, vpn
+417: aus, eur, phi, phil
+418: tex, war
+419: nba
+420: car, sec, job
+421: max, dos, iii
+423: pdf, loc, sim, thou
+424: amy, kai, spa, der, try, pie
+426: law
+430: eau
+431: rio, gmbh, wine, win
+432: cup, jet, hub, dui, tel
+433: hard, oem
+434: pay, kay, wav
+435: zen, rrp, job
+436: his, cube, pvc, bad
+437: irs
+438: img, dim, sum, man
+440: cfr, ray, dow
+441: tmp, any, san, rpm, pty
+442: usa, dec, zus, not
+443: add, max, que, uni, ana, fan, gap
+444: mar, bbs
+445: sue, iii
+446: val, hey
+448: smtp, org
+449: won, hot, red, amd, nam
+450: car, own, ids
+451: how, ian, xxx
+452: tire, rec, ups, vhs
+453: act
+454: scsi, map, sim
+455: nba, las, bob, wto, inc, urw
+456: ups
+457: leu, pork, por, tag
+458: foo, yea
+459: por, liz, sms
+460: try, src
+461: sol, gpl, age, god, mag
+462: pam
+463: mug, too
+464: eng
+465: buy, yes, flu, wax
+466: per, pod
+467: not, hiv
+468: may
+469: lil, tel, alt
+470: sci
+471: asn, sub, has, law, gis, lip
+472: eos, ist
+473: ada
+474: why, llp
+475: gis
+476: dns, mid, tue, rss, div, pmid
+477: ata, pat, chi
+478: met
+479: mid, dns, cos
+481: tue, hwy, cry
+482: dev
+483: exec, way, vol
+484: und, fee, gif, ceo, wed, trek
+485: pet, her, rim, pets
+486: due, tin, bay, ink, soc, fin
+487: une, lack, lou, bin
+488: rep, bet, our, tap, ids
+489: ion, ind, mlb
+491: unto, bar, rug, rfc
+492: mae
+493: ltd, gbp
+494: del
+495: den
+496: len, bay, llc
+497: jay, pci, sin, aug, rip, uri, inn
+498: jun, abu, junk, fcc, upc
+500: rrp, ati, uri
+501: gay
+502: flu, end, sun, pie, mpg
+503: cam, ion, ash, fcc, doc
+504: ink, buf
+505: dat, foo, mix, vcr
+506: msn
+507: aye, dvd, yea, sap
+508: sue, doom, dos
+509: mine, tab, min, mai
+510: iii, bbc, mpg
+511: san, yrs, fan
+513: fly
+514: java, two, zoo, ask
+515: lap
+516: reg, gel, war, rip, tri, par, wars, are, trip
+517: lcd, age, tag
+518: usb, cir, thy
+519: col, enb
+520: cow
+521: gui, ham, inn, ceo
+522: ian, psi
+523: gst, dave, ave, div
+524: dev, vat
+525: owen, due, cpu, cal, bid, enb, bed
+526: cas
+527: lil
+528: any, sql
+529: geo, pal
+530: gel, got
+531: buy, doc
+532: kit
+533: can, eco, was
+534: sex, put
+535: dead, lit, diy, gpl, url, cum, liz, mar
+536: dod, tea, ion, mad, wma
+537: tmp, gnu, hey
+538: blvd
+539: ice
+540: mic, ssl, icq, sic
+541: ing, tax
+542: ati, lay, cry
+543: due, see, mba, pay, pda, wed
+544: ali, dont, ira, don, via
+545: mls, cgi, ken, usb, ppm
+546: job, hub
+547: san, kde
+548: ssl, amp, nec
+549: lil, bit, dsl, cds
+550: flu, vcr
+551: rio, sim, sox
+552: qld, css, nec
+553: seo
+554: dip, ppm, dry
+555: get, low, diy, ways, eau, way, mba, bid, wax
+557: bid, pdf
+558: thu, zoo, msg
+559: cut, kid
+560: toe
+561: tmp, vic, nat, six, ict
+562: rose, erp, more, crm, tumor
+563: ict
+564: art, age, aud, far, arts, jon
+565: pam, min, egg, vol, sci
+566: six, lie
+567: mix, hon, who, eva, bye, yen, fix, leg, tan
+569: rss, let, oem, dog
+570: mls, aus, hold, old, dna
+571: ton, rob, cds
+572: int, out, boy, sic
+573: opt, buf
+574: way
+575: lbs, vol
+576: cvs, sit, vat
+578: ibm, arm
+580: chi, por
+581: six, why, crm
+582: dsl, bus, usr, src
+583: fun, php, fwd
+584: met, ash, fame
+585: tags, tag
+586: epa, issn, lip, rss, gmc, tan
+587: pot, one, fda, mon
+588: road, bar, soc, ppm, too
+589: pmc
+590: has, jar, ask, ski
+591: toe, vic
+592: amp
+593: jan, nfl, abu, fur
+594: tmp, nut, zip, gzip, ist
+595: pot, tit, irs
+596: int, das, dash, ceo, sin, inc, ash, inf
+597: zus, isa, upc
+598: six, loc
+599: edt, mae, toe, hit, ron, joe, sic
+600: hop, pro, bra
+601: jam, src, las, shot, hot, rca, pool, ben, box
+602: seq
+603: may, edt, lip, cdt, med
+604: the
+605: abc, levy, fit
+606: max, gmt, www
+608: bye
+609: avi, due, wav
+610: phi, joy
+611: zus, box
+612: worn
+613: arc, rec, hiv, basic, eco, ict, sic
+614: big, utc
+615: how, dsc, ted, dry
+616: acm, but, seq
+617: ccd, die
+618: red, fan, eds, gcc
+619: she, sol, duo, tba, gdp, von
+620: gay, acm, eng
+621: lat, our
+622: for, flu, sri, wed
+623: ass, app, hay, cop
+624: her, our, the, pal, llc, jon, ooo
+626: ste, cgi, vid, msn, gst
+627: fun, inc, len, res
+628: foul, bob, usa, icq, usb
+629: cir, sql
+630: gel, cod, gbp, gmc, dot
+631: cup, mae, dui, eos, eng
+632: you, wan, lid, fda, sap, bug
+633: cow, spas, spa, pas, rap
+634: col, yrs, ata, tab, say, cold, sku, old
+635: diy
+636: dec, ict
+637: mar, bon, too, ooo
+638: rio, sip, est
+639: hack, kim
+640: him, ist
+641: cite, ala, one, nec, mon
+642: cut, acm, mhz, utc
+643: ibm
+644: iii, cos, rio, cam, com, ill, fill, dad
+645: era, vid, cvs, gbp
+646: dec, web, cos, irs, zip, eco, rna, mas, doc
+647: rat, das, car, ask, todd, odd, arm, geo
+648: has, tex, faqs, faq
+649: mix, def
+650: seo, how, nov
+651: nam, son
+652: dsc, atm, diy, bet
+653: our, her, hot, age
+654: loc, nfl, alt, out, vast, stay
+655: cpu, mel
+656: dns, tue, cia, von, yea, bin
+657: rat, cio, pdt, nsw, tcp
+658: avg, van, abs, lid
+659: pie, cnn, ala
+660: rfc, tax, ted
+661: los
+662: tue, tcp
+663: any, has, kit, ian, pad, for
+664: chad, pix, gpl, fda, geo, had
+665: tall, all, len, gsm, eve, toy, yen, lat, mem
+666: jim, run, uni
+667: dem, wow, nov, rna, tft
+669: mrs
+670: gnu, nut
+671: lies, dvd, pop, dpi, pdf, lie
+672: lab, ext
+673: lab, rob
+674: nba, hub, bob, how, for
+675: cos, six, rid, oak
+676: zoo, tri, pic
+677: dat
+678: ata, spy, kde
+679: dvd, was
+680: diy
+681: ham
+682: aus, bow, usb, guy
+683: dat, hip, lcd
+684: ppm, tab
+685: nhl
+686: ccd, hot, and, rim, bin
+687: she, asn, ist
+688: has, sad, tit
+689: her, une, top, mrs, dad
+690: mom, off, its, sit
+691: hip, midi, mid, sms
+692: div
+693: mon, pam
+694: gas, sox, man
+695: len, end, blend, ons, ron, alt, cho, hon
+696: rip, vol, big, mpg
+697: une, ddr, got, cdt, son, str
+698: qty, may, faq, win, ion, div
+699: wow
+700: doe, gap, nav, lit
+701: cop, plc, six, cdt, lcd
+702: opt, acm, zip, med, pty
+703: air, vii, pop, tcp
+704: exp, med, bio, jam
+705: run, max, rope, abs, mag
+706: tray, ent, fan, ray, sox, rays
+707: sky, mac, ace
+708: lcd, pod, sat, day
+709: gif, cgi
+710: max, qld, gen, age, ill, roy, enb
+711: grab, pal, help, off, doc
+712: fit, vid, uri, tax, rid
+713: dee, oak
+714: ill, dow, cum
+715: pay, rss, mrs
+716: img, ham, dim, sen, pit
+717: day, cow, nov, toy, bbs, cho
+718: ran, gnu, med, ids, bid, bids
+719: led, day, pci
+720: ate, nat, try, hrs, rap
+721: ftp, cbs, lan, hot, but, mph
+722: pmc, oil, dot, lee
+723: qty, mit, tee, dip, arc, pee, old, eng
+724: ppm, inf
+725: seq, mlb
+726: fan
+727: jim, nsw, eos
+728: tgp, das, tom, sad, net, isp, nec, inn
+729: mod, dod
+730: cir, css, pop, not, pope
+731: you, hot, let, dpi, etc
+732: cal
+733: amy, los, abu, lid
+734: are, reg, eva
+735: she, lot, vhs
+736: mic
+737: qld, gen, com, eye, hon
+738: vol
+739: bid, vii, und
+740: ram, nav, mil, jvc, met, dos
+741: fbi, era, vhs, bbw, pdf
+742: men, pop, rod, vpn, cake, ent, ment
+743: eur, noon, cet, ice, ink, fin
+744: opt, kay, vpn, gba, bat, bath
+745: bee, thou, aud, ace, soa
+746: flu, key, mat
+747: ids, sat, nut, now
+748: cut, wav, gmt
+749: was, ice, plc, sky, jar, led
+750: bee, cam, zoo, crm, fog, sao
+751: ran, def, hide, fat, ide, hrs
+752: fri, egg
+753: col, due, mile, kit, ada, ion, mil, eco, cold, old
+754: mrs, lay, tub, dry, cvs
+755: cds, gif, pay, ban, pac
+756: vid
+757: tft
+758: lab, abc
+759: jpg, air
+760: bag, god
+761: met, inn, soc, hub
+762: len, diy, end, pal, mpg
+763: tea, team, lid, ago, alt, val
+764: phi, tap, duo, vid, jvc, pgp
+765: men, ask, ent, mask, mat, vid, sri, liz, ment, mats, geo, mas, gun
+766: ate, diy, dig, soc
+767: rep
+768: pig, dec, ice, jvc, bio
+769: via, the, apt, asp
+770: tag, len, ips, tba, mega, cat
+771: tgp, ftp, dad, wet, etc, dry
+772: dee, pay, spa, cvs, jar
+773: she, its, qld, acm, sit, lot
+775: asn, cad, wma
+776: cms, nhs, vat, nav
+777: add
+778: two, cove, wow, dad, ppc, rug
+779: los, kay, vhs, how, cho
+780: vpn, bra, lil, vhs, brad, cdt, led, wax
+781: wal, gain, fat, cry
+782: max, mlb, put
+783: set, six, bat, kiss, urw, sit
+784: yes, atm
+785: inc, tri, aol, com
+786: cos, wet, ict, sic, tan
+787: fit, loc, nhl
+788: hat, sing, rec, sin, ing, ray, sku
+789: cms, flu, pmc, res
+790: cst, mit, sri
+791: pen, now, iso, own, york
+792: que, dns, mae, plc, wma, san
+793: seo, bus
+794: rio, box
+795: mae, app, tap, ron, avi, vid, ctrl, boy
+796: atm, les
+797: add, ddr, ips, rev, med, sig
+798: nba, iowa, hat, abs, war, lcd
+799: ton, opt, high, acc
+800: kai
+801: css, pvc
+802: edt, tmp, ati, aid, ata, nat, boc
+803: mit, lol, the, fix, not, boc
+804: jam, vcr
+805: cms, pts, rec, org
+806: ran, bra, epa, vic, vip, lip, geo, hwy
+807: cup, pci
+808: sega, ace
+809: max, pie, lan, jet
+810: sir, fig, dis, qui
+811: wan, eur, roy
+812: barn, gui, ion, bar, box, pgp
+813: bob, mls
+814: fax, gym, qty, set
+815: dam, nhs, ons, erp, non, fda, pda, dad
+816: fed, pos, sri, sku, rim
+817: raw, css, kay, sec, bra, tvs, say, vip, van, sic
+818: hrs, own, grew
+819: ide, eve, lid
+820: dev, tin, did, soc, sur
+822: den, sub, fwd, vpn, rio, tim, bit, ted, dry, mon, ghz, sap
+823: oct, cod, pam
+824: bee, cup, ken, ind
+825: far, art, rfc, big
+826: log, tgp, reg, big, ict
+827: eau, def, kde, don, eng
+828: sec, big, dam, usb, box
+829: per, con, acm, gui, boy, map, mpg
+830: pub, eat, vol
+831: add, mug, day, jvc, mad, cdt
+832: seo, sep, hiv, tom
+833: sue, see, cam, pre, use, ago, tcp
+835: ran, sol, alt, dos, mud
+836: win, apt, pci
+837: rio, fog, mem
+838: lat, gst, irs, lib
+839: out, rug, jan
+840: das, asp, fox, lee, neo, rpm, yea
+841: edt, ceo, lan, duo, ind, lang, bed
+842: dev, jack, law, gis, miss, ist
+843: how, kay, avg, tvs
+844: dec, cet, cbs, bob, arc, oil, say, sin, inf, obj, jar
+845: tgp, log, dec, men, def, mens, rid, for, mime, wav
+846: non, sat, sox
+847: dsl, cds
+848: our, mpg, rec, abu, jeff, hot, why, use, san, buf
+849: por, old, uni, eau
+850: pee, cia, buy, nov, lbs
+851: dee, pin, til, sas, mid, sep, hiv
+852: irc, cir, wto
+853: lace, ceo, ace, sex, eos
+854: van, cho, zum, oak
+855: sox, got, wav, net
+856: kid, how, dts, mhz, lie
+857: ent, cad, pad, nhl, zus
+858: all, col, rod, won, ons, etc, mel, sur
+859: wan, ser, soc
+860: doe, ver, zone, cam, one, son
+861: bow, del, toy, sky, gym, row
+862: thu, pen
+863: fax, fur, jam, nhs, can, and
+864: tmp, dim, say, lid, non, psi, mhz
+865: mae, ltd, vid, oem, pty, hwy
+866: nfl, sig, aug
+867: mug, cow, vip, bio, spa, par, mpg
+868: hub, note, not, api, phd
+869: pct, len, ten, eng
+870: bow, lan, ant, kde, new, zus
+871: mic, ali, die
+872: bye, sea, eos, abs
+873: nsw, gst, box
+874: poly, ken
+875: tin, rss, ref
+876: mere, tin, ceo
+877: dod, rrp, vic, avg, kai, mon, cms
+878: ask, fed, dsc, gif, mls, sin, mil, eds, wed
+879: ass, tmp, den, eur, hill, fee, rec, feet, vhs, ill, str, eye, mud
+880: user, avg, use, wed, zus, ser
+881: lid, joy, def
+882: sad, img, len, jvc, doll, cap
+883: cst, take, bon, bus, div
+884: vary, var, gtk, ago, msn, ict
+885: eur, any, nyc, eos, job, gcc
+886: six, oct, out, lou
+887: nav, aid, pan, sys, ide, paid, dna, nil
+888: atm, the, sit, nbc
+889: rat, tim, php, tie, ear, dna, usr
+890: ali, kay, tap, oil, nat, aus, nhl, usr, pac, pack, pgp
+891: rat, den, hat, ata, tab, uri, pac, sur, cat
+892: nor, pos, toy, ben, wav
+894: has, drum, now
+895: dec, fwd, kit, eve, inf
+896: road, sam, bug, god, tax, ton, dot
+897: pod, wow, the, try, ref
+898: our, dam, tin, ban, boy
+899: ass, acc, cry, hop, pts, eye, bass
+900: pet, qld, tex, wet, joy, sql
+901: ass, nor
+902: wow, far, zen, von, enb
+903: his, std, kai, too, lcd
+904: jim, gdp, dir, put, mpg
+905: hon, day, una, sun, mazda
+906: fun, etc, sci
+907: max, amp, pack, cal, pac, feb
+908: dod, nut, vpn, sri, via, val
+909: raw, bit, abu, pda
+910: fax, ddr
+911: sen, pen, ala, aaa, yea
+912: ask, jet, nav, pen, rid, pas
+913: edt, cab, hawk, bbs, led
+914: das, una
+915: set, bed
+916: cut, ppm, obj
+917: flu, hit, nav, flux
+918: run, dam, ken, nat, lib, rna, ibm, pgp
+919: amy, lip, use, wma, burn, tar
+920: ron, css, min, ind
+921: rep, dts, obj, zoo, had, too
+922: eur, foo, cow, orgy, fix, org
+923: log, she, std, cry, fee, abu, logo, ibm
+924: fit, gis, gale, geo, bar, eos
+925: dod, faq, rev, jan, bugs, bug
+926: flu, css, men, mrs, rev, bio, urw, nil
+927: amp, tea, sam, rod, arc, way, tit, ear
+928: nav, the, bay, arg, mom, ppc
+929: wax
+930: opt, ana, has, nano, gem, lan, thy
+931: oct, eur, run, tee, gif, una, eau, upon, cox, mil
+932: das, reg, mae, saw, mpg
+933: pro, amd, rid, ton, fri, bed
+934: flu, und, audi, gem, soa, aud, nsw, ghz, led
+936: web, sam, len, jvc, phd
+937: jun, edt, jim, app, tue, the, fri, bar, feb
+938: bar, gras, arg
+939: nor, und, rio, lib, lip, hey, div
+940: mia, ham, nor, cet, aol, pen, hub, man, amp, inc, tba, crm
+941: per, tmp, loc, ann, kit, erp
+942: dee, eur, ftp, tmp, ink, aaa, joe, ref
+943: bid, jam, min, ask
+944: log, uni, gis, gpl, isp, rss, mhz
+945: bat, aka, reg
+946: she, hope, pee, mls, gmt, egg, hop, bat, gym
+947: mil, cap, app
+948: ads, sail, rss, ted, dry
+949: usa, says, gas, say, pas
+950: dem, ice, nyc, gem, der, lie
+951: cab, aol, ice, biz, exp, feb
+952: jam, fee, dog, ups, pre, son, ref
+953: for, sur, rod
+954: log, rep, icq, php, god
+955: irc, aid, hub, law, met, tip
+957: sky, jay, nhs, leo
+958: xxx, ace, pvc, ted, acer, out, route, tcp
+959: apt, tee, bmw, ing, mlb, for, mtv
+960: any, uni, rio, arg, van, seo
+961: run, une, fig, key, uri, ict
+962: lap, way, ill, mom, pda, llc
+963: kim, dsc, ian, mon, phd
+964: asn, bbc
+965: cst, gnu, eco, too, pmc
+966: one, leo, zip, ceo
+967: bob, aka, the, pix, obj
+968: max, cfr, fri, pda, mon, two
+969: tmp, les, ant, loan
+970: eve, vid, dat, ser, job, upc
+971: mae, wolf, buy, jpeg, ink, pay
+972: ran, cup, any, net, cum, pty, mud
+973: raw, web, sam, mae, bra
+974: fbi, pig, asn, was, pay, spa, sex, psi, cvs
+975: buy, ten, pst, pot, eng
+976: ibm, nec, saw
+977: cia, vic, avi, key, sci, cut, duke
+978: sie, dec, lan, and, eco, tax, map
+979: reg, aka, lay, plc, liz, guy, cms
+980: fox, bid, ati
+981: pet, run, air, bbc, lay
+982: jpg, fax, leu, bow, yes, aug
+983: all, dns, ver, cgi, ave, pan, str, ppm, lab, ser
+984: fbi, int, gnu, cos, nfl, nhs, rug, bin
+985: tue, cry, bob, lee, alt
+986: her, tab, pmc, ron, not, leg, dow
+987: arab, pub, isa
+988: dee, even, pet, pose, pos, eve, der, pda, ide
+989: jet, faq, pos, bye, cam, pub, etc, buf
+990: put
+991: vat, soa, van, mil, off, ist, sum, also
+992: mug, bob, mod, lib, ace, pub, usb, ted, qui, bin, tan
+993: aka, law, sql, psp
+994: city, inn
+995: con, eco, rid
+996: pen, ent, ceo, mil, inf, mag
+997: bid, sao
+998: man, ant, cum
+999: sub, tab, gpl, pal, zen, lot, enb
