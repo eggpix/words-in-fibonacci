@@ -4,7 +4,7 @@ from base26 import to_base_26
 LOOP_NUM = 10000
 MIN_WORD_LENGTH = 5
 ASSET_DIR = "./assets/"
-OUTPUT_FILE = "./output/fibonacci.txt"
+OUTPUT_FILE = "./fibonacci_words.txt"
 
 word_trie = {}
 max_word_length = 0
