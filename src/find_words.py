@@ -4,7 +4,7 @@ from base26 import to_base_26
 LOOP_NUM = 10000
 MIN_WORD_LENGTH = 5
 ASSET_DIR = "./assets/"
-OUTPUT_DIR = "./output/"
+OUTPUT_FILE = "./output/fibonacci.txt"
 
 word_trie = {}
 max_word_length = 0
@@ -30,7 +30,7 @@ fibonacci_2 = 1
 print("Writing...")
 start_time = time.perf_counter()
 
-with open(OUTPUT_DIR + "fibonacci.txt", "w") as fib_file:
+with open(OUTPUT_FILE, "w") as fib_file:
     fib_file.write(f"English words of {MIN_WORD_LENGTH} characters or more in the first {LOOP_NUM} elements of the base 26 Fibonacci sequence:\n\n")
     for i in range(LOOP_NUM):
         alpha_string = to_base_26(fibonacci_1)
